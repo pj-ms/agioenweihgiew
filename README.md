@@ -1,2 +1,9 @@
-# agioenweihgiew
-Generated from prompt: Windows 95 Demo Application  Requirements &amp; Concept Document 1. Main Purpose  Provide a nos...
+# Win95 Demo Suite
+
+This app was generated using GitHub Spark.
+
+## Getting Started
+
+1. Clone this repository
+2. Follow the setup instructions for your app type
+3. Start developing!
